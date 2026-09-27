@@ -17,8 +17,8 @@ This project tracks retail performance across regions, product categories, and t
 | ----------------------------------------------------------- | ------------------------------------------------------------- |
 | ![Executive Overview](./Screenshots/executive-overview.png) | ![Product Performance](./Screenshots/product-performance.png) |
 
-| Regional and Time Analysis                                              | Product Detail |
-| ----------------------------------------------------------------------- | -------------- |
+| Regional and Time Analysis                                              | 
+| ----------------------------------------------------------------------- | 
 | ![Regional and Time Analysis](./Screenshots/regional-time-analysis.png) |
 
 ## 🛠️ Tech Stack
